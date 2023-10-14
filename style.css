@@ -1,0 +1,10 @@
+.btn{
+    width: 60px;
+    padding: 10px;
+    position: relative;
+    left: 50%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: none;
+    font-size: larger;
+}
